@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  challenge:
+    container_name: xss_challenge
+    build:
+      context: .
+    ports:
+      - "1337:1337"
