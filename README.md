@@ -1,7 +1,5 @@
 # Template for XSS CTF Challenges
 
-- Author: sharkmoos
-
 Entering the following payload will trigger the XSS bot (substituting in the attackers IP and PORT):
 
 ```
